@@ -6,13 +6,16 @@ Instructions:
 Answer the following questions based on your understanding of software engineering concepts. Provide detailed explanations and examples where appropriate.
 
 Questions:
-Define Software Engineering:It is a systematic application tool used to develop and maintain software systems
+Define Software Engineering:
+
+It is a systematic application tool used to develop and maintain software systems
 
 What is software engineering, and how does it differ from traditional programming?
 Software Development Life Cycle (SDLC):
 
 Explain the various phases of the Software Development Life Cycle. Provide a brief description of each phase.
 Agile vs. Waterfall Models:
+
 1.Requirement - Gathering & documenting the needs of a user and the requirements for the system 
 2.Design - Designing detailed & the correct level of the software architecture and user interface 
 3.Implementation - That is coding and building the software according to the design specified
@@ -26,6 +29,7 @@ Requirements Engineering:
 
 What is requirements engineering? Describe the process and its importance in the software development lifecycle.
 Software Design Principles:
+
 -It's where you discover the needs as per the society and finding out ways to solve-where the problem solving techniques is the requirements. 
 You will need to gather anx document the needs of users all round as it will be of more importance finding out the solutions to the problems facing the users. 
 
